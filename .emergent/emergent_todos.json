@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Restore repo sjkajsux/travel ke /app + bootstrap deps + services RUNNING",
+    "status": "completed"
+  },
+  {
+    "content": "Verifikasi baseline SEBELUM coding: gate.sh 42/42 HIJAU + POC CW2 87/87",
+    "status": "completed"
+  },
+  {
+    "content": "Audit JUJUR kelengkapan CMS → 4 gap nyata ditemukan (versi/rollback, tempat sampah, redirect 301, aksi massal)",
+    "status": "completed"
+  },
+  {
+    "content": "Backend CMS-10/11/12/13 + registrasi koleksi di SSOT guardrail",
+    "status": "completed"
+  },
+  {
+    "content": "POC scripts/test_core_cms_cw3.py HIJAU (100/100)",
+    "status": "completed"
+  },
+  {
+    "content": "Frontend admin: riwayat versi, tempat sampah, panel pengalihan URL, aksi massal",
+    "status": "in_progress"
+  },
+  {
+    "content": "Frontend publik: URL lama otomatis dialihkan (BlogDetail/DestinationDetail/PackageDetail)",
+    "status": "pending"
+  },
+  {
+    "content": "Guardrail INV-CMS-01 + selftest mutasi + wiring gate.sh + INVARIANTS.md",
+    "status": "pending"
+  },
+  {
+    "content": "Docs SSOT (03_DATA_MODEL, 04_API_CONTRACT, 05_NAVIGATION_MAP, 10_CODEBASE_MAP) + manifest + plan.md",
+    "status": "pending"
+  },
+  {
+    "content": "gate.sh HIJAU penuh + testing_agent_v3 E2E (admin + publik)",
+    "status": "pending"
+  }
+]
